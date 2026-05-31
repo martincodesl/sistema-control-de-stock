@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "novedades": "- Registro del administrador al instalar por primera vez\n- Mayor seguridad en el acceso al sistema",
-  "url_descarga": "https://github.com/martincodesl/sistema-control-de-stock/releases/download/v1.0.4/SistemaControlStock_Setup_v1.0.4.exe"
+  "version": "1.0.5",
+  "novedades": "- Recuperación de contraseña\n- Analíticas mejoradas\n- Código de barras único",
+  "url_descarga": "https://github.com/martincodesl/sistema-control-de-stock/releases/download/v1.0.5/SistemaControlStock_Setup_v1.0.5.exe"
 }
