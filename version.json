@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
-  "novedades": "- Backup automático con restauración\n- Historial de precios por producto\n- Alerta de stock bajo en tiempo real al vender",
-  "url_descarga": "https://github.com/martincodesl/sistema-control-de-stock/releases/download/v1.0.7/SistemaControlStock_Setup_v1.0.7.exe"
+  "version": "1.0.8",
+  "novedades": "- Mejoras visuales en dashboard, login y ventas\n- Nuevo ícono de la aplicación",
+  "url_descarga": "https://github.com/martincodesl/sistema-control-de-stock/releases/download/v1.0.8/SistemaControlStock_Setup_v1.0.8.exe"
 }
