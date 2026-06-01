@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "novedades": "- Impresión de ticket de venta (térmica y A4)",
-  "url_descarga": "https://github.com/martincodesl/sistema-control-de-stock/releases/download/v1.0.6/SistemaControlStock_Setup_v1.0.6.exe"
+  "version": "1.0.7",
+  "novedades": "- Backup automático con restauración\n- Historial de precios por producto\n- Alerta de stock bajo en tiempo real al vender",
+  "url_descarga": "https://github.com/martincodesl/sistema-control-de-stock/releases/download/v1.0.7/SistemaControlStock_Setup_v1.0.7.exe"
 }
