@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
-  "novedades": "- Mejoras visuales en dashboard, login y ventas\n- Nuevo ícono de la aplicación",
-  "url_descarga": "https://github.com/martincodesl/sistema-control-de-stock/releases/download/v1.0.8/SistemaControlStock_Setup_v1.0.8.exe"
+  "version": "1.0.9",
+  "novedades": "- Reporte de ganancias\n- Productos sin control de stock\n- Dashboard mejorado",
+  "url_descarga": "https://github.com/martincodesl/sistema-control-de-stock/releases/download/v1.0.9/SistemaControlStock_Setup_v1.0.9.exe"
 }
