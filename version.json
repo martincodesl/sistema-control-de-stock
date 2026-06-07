@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "novedades": "- Nuevo nombre: Vendly\n- Íconos modernos en todo el sistema\n- Reporte de ganancias con gastos\n- Productos sin control de stock\n- Dashboard con 8 tarjetas responsive\n- Nuevo logo",
-  "url_descarga": "https://github.com/martincodesl/sistema-control-de-stock/releases/download/v1.1.0/Vendly_Setup_v1.1.0.exe"
+  "version": "1.2.0",
+  "novedades": "- Sistema de licencias por PC\n- Activación online via servidor\n- Soporte para licencias permanentes y anuales",
+  "url_descarga": "https://github.com/martincodesl/sistema-control-de-stock/releases/download/v1.2.0/Vendly_Setup_v1.2.0.exe"
 }
