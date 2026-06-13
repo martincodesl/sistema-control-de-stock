@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
-  "novedades": "- Búsqueda automática al abrir ventanas\n- Triple click selecciona todo el texto\n- Dashboard reorganizable por rol\n- Corrección en verificación de licencias",
-  "url_descarga": "https://github.com/martincodesl/sistema-control-de-stock/releases/download/v1.3.0/Vendly_Setup_v1.3.0.exe"
+  "version": "1.4.0",
+  "novedades": "- Triple click selecciona todo el texto\n- Scanner abre diálogo de cantidad\n- Buscador en reporte de Stock Bajo\n- Mejoras de flujo en Nueva Venta",
+  "url_descarga": "https://github.com/martincodesl/sistema-control-de-stock/releases/download/v1.4.0/Vendly_Setup_v1.4.0.exe"
 }
