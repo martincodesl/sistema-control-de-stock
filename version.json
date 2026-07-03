@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
-  "novedades": "- Triple click selecciona todo el texto\n- Scanner abre diálogo de cantidad\n- Buscador en reporte de Stock Bajo\n- Mejoras de flujo en Nueva Venta",
+  "version": "1.5.0",
+  "novedades": "- Scanner agrega directo al carrito\n- Triple click selecciona todo el texto\n- Buscador en reporte de Stock Bajo\n- Mejoras de flujo en Nueva Venta",
   "url_descarga": "https://github.com/martincodesl/sistema-control-de-stock/releases/download/v1.4.0/Vendly_Setup_v1.4.0.exe"
 }
